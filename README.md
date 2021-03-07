@@ -26,6 +26,20 @@ This app provides a simple way to organize your appointments with the best barbe
 - MongoDB
 
 ## First steps 🐾:
-0. Make sure you have the API running in your computer.
-1. Run `yarn` to install dependencies.
-2. Run `yarn android` or `yarn ios` to start the mobile app.
+```bash
+# Make sure you have the backend running in your computer.
+# Clone this repository
+$ git clone https://github.com/EduardoBravoP/gobarber-mobile.git
+
+# Go into the repository
+$ cd gobarber-mobile
+
+# Install dependencies
+$ yarn
+
+# Run the app (iOS)
+$ yarn ios
+
+# Run the app (Android)
+$ yarn android
+```
